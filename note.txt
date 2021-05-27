@@ -1,0 +1,8 @@
+/*Firs Class Function
+
+const Test = function (){
+    console.log("Test");
+}
+Test()
+
+*/
